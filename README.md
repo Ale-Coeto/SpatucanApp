@@ -13,5 +13,5 @@ Aplicación de computadora para un negocio de estética canina. Permite agendar 
 
 <img width="550" alt="AgregarCliente" src="https://user-images.githubusercontent.com/109093534/196090716-f318b4aa-d179-4d9e-89fd-7e09e5a34986.png">
 <img width="550" alt="AgregarCliente" src="https://user-images.githubusercontent.com/109093534/196090744-2a1b2362-2893-4d85-aed3-8ebc0377dd05.png">
-<img width="55o" alt="Servicios" src="https://user-images.githubusercontent.com/109093534/196090951-9dc45079-b59b-42f2-8cae-f2dc814a72a1.png">
+<img width="550" alt="Servicios" src="https://user-images.githubusercontent.com/109093534/196090951-9dc45079-b59b-42f2-8cae-f2dc814a72a1.png">
 
